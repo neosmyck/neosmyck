@@ -1,0 +1,19 @@
+name: Neosmyck Light
+type: dark
+colors:
+  darkBlack: "#b0b0b0"
+  black: "#f7f7f7"
+  darkRed: "#bc5952"
+  red: "#8c3c31"
+  darkGreen: "#87ac19"
+  green: "#627e22"
+  darkYellow: "#b99c2d"
+  yellow: "#8c751e"
+  darkBlue: "#60a7c2"
+  blue: "#486f7d"
+  darkMagenta: "#b3749d"
+  magenta: "#775680"
+  darkCyan: "#56a19c"
+  cyan: "#18636c"
+  darkWhite: "#5d5d5d"
+  white: "#111111"

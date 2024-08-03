@@ -1,0 +1,3 @@
+[submodule "ports/neosmyck-terminal"]
+	path = ports/neosmyck-terminal
+	url = git@github.com:neosmyck/neosmyck-terminal.git
